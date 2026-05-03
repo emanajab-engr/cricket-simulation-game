@@ -1,4 +1,4 @@
-Overview
+Overview:
 A command-line based cricket match simulator that allows two teams to play a complete ODI (One Day International) style cricket match. The program simulates both innings with realistic cricket mechanics including toss, batting, bowling, wickets, and match statistics.
 Features
 
@@ -10,7 +10,7 @@ Complete Scorecard: Detailed batting and bowling statistics for both teams
 Match Summary: Final scores, results, and Man of the Match
 Target Tracking: Second innings shows required runs and balls remaining
 
-Requirements
+Requirements:
 
 Python 3.x
 No external libraries required (uses only standard library: random)
